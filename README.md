@@ -16,5 +16,5 @@ Para que la herramienta funcione correctamente, debes tener instalados en tu sis
 
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/LibreFRP.git](https://github.com/TU_USUARIO/LibreFRP.git)
+   git clone https://github.com/nenyuxdev/LibreFRP
    cd LibreFRP
