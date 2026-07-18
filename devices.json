@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Poco M5s",
+        "action": "e frp",
+        "type": "MTK"
+    },
+    {
+        "name": "Redmi 10 2022",
+        "action": "e frp",
+        "type": "MTK"
+    },
+    {
+        "name": "Redmi 7A",
+        "action": "e config --memory=emmc",
+        "type": "Qualcomm"
+    },
+    {
+        "name": "Redmi 9A",
+        "action": "e frp",
+        "type": "MTK"
+    },
+    {
+        "name": "Redmi 9C",
+        "action": "e frp",
+        "type": "MTK"
+    },
+    {
+        "name": "Redmi Note 9",
+        "action": "e frp",
+        "type": "MTK"
+    },
+    {
+        "name": "Samsung A065M",
+        "action": "e frp",
+        "type": "MTK"
+    },
+    {
+        "name": "Redmi note 10S",
+        "action": "e frp",
+        "type": "MTK"
+    },
+    {
+        "name": "Redmi Note 8 Pro",
+        "action": "e frp",
+        "type": "MTK"
+    },
+    {
+        "name": "Redmi Note 11S 4G",
+        "action": "e frp",
+        "type": "MTK"
+    },
+    {
+        "name": "Infinix Note 10 Pro",
+        "action": "e frp",
+        "type": "MTK"
+    }
+]
