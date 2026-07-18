@@ -11,7 +11,8 @@
     },
     {
         "name": "Redmi 7A",
-        "action": "e config --memory=emmc",
+        "action": "e config",
+        "memory": "emmc",
         "type": "Qualcomm"
     },
     {
