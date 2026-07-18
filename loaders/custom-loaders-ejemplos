@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Android",
+    "action": "e frp",
+    "type": "MTK",
+    "loader": "custom-loader.bin"
+  },
+  {
+    "name": "Android",
+    "action": "e frp",
+    "type": "Qualcomm",
+    "memory": "ufs",
+    "lun": "0",
+    "loader": "custom-loader.elf"
+  }
+]
